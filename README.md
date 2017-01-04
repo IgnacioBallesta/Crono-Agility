@@ -5,7 +5,13 @@ con software y hardware libre
 
 ## Introducción
 
-Este repositorio de información contiene la información necesaria para poder construir un cronómetro digital con marcador, unidad de control y vallas de paso. El sistema tienen infinidad de variantes que podrán ser modificadas para distintos deportes o distintas pruebas dentro de un mismo deporte. 
+Este repositorio de información contiene la información necesaria para poder construir un cronómetro digital con marcador, unidad de control y vallas de paso. El sistema tienen infinidad de variantes que podrán ser modificadas para distintos deportes o distintas pruebas dentro de un mismo deporte.
+
+En esta primera versión vamos configurar el sistema de tal manera que pueda ser totalemte autónomo (sin necesidad de ordenador central), pero también podremos comunicarnos con un ordenador mediante un software de control.
+
+Basaremos el hardware en Arduino
+
+Por tanto, necesitaremos coordinar el hardware y el software para crear un sistema con errores inferiores a las centésimas. 
 
 #### Licencia
 
