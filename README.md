@@ -13,6 +13,12 @@ Basaremos el hardware en Arduino y en su entorno IDE de programación.
 
 Por tanto, necesitaremos coordinar el hardware y el software para crear un sistema con errores inferiores a la centésima. 
 
+## Módulos del sistema
+
+1.	[Vallas inalámbricas](https://github.com/Crono-Agility/Vallas)
+2.	[Display](https://github.com/Crono-Agility/Display)
+3.	[Control](https://github.com/Crono-Agility/Control)
+
 #### Licencia
 
 <img src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /> Esta obra se distribuye bajo licencia [Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
