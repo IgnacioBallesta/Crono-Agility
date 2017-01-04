@@ -9,9 +9,9 @@ Este repositorio de información contiene la información necesaria para poder c
 
 En esta primera versión vamos configurar el sistema de tal manera que pueda ser totalemte autónomo (sin necesidad de ordenador central), pero también podremos comunicarnos con un ordenador mediante un software de control.
 
-Basaremos el hardware en Arduino
+Basaremos el hardware en Arduino y en su entorno IDE de programación. 
 
-Por tanto, necesitaremos coordinar el hardware y el software para crear un sistema con errores inferiores a las centésimas. 
+Por tanto, necesitaremos coordinar el hardware y el software para crear un sistema con errores inferiores a la centésima. 
 
 #### Licencia
 
