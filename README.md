@@ -15,9 +15,9 @@ Por tanto, necesitaremos coordinar el hardware y el software para crear un siste
 
 ## Módulos del sistema
 
-1.	[Vallas inalámbricas](https://github.com/Crono-Agility/Vallas.md)
-2.	[Display](https://github.com/Crono-Agility/Display.md)
-3.	[Control](https://github.com/Crono-Agility/Control.md)
+1.	[Vallas inalámbricas](https://github.com/IgnacioBallesta/Crono-Agility/Vallas.md)
+2.	[Display](https://github.com/IgnacioBallesta/Crono-Agility/Display.md)
+3.	[Control](https://github.com/IgnacioBallesta/Crono-Agility/Control.md)
 
 #### Licencia
 
